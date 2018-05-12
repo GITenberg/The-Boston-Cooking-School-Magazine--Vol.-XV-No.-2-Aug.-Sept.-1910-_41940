@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4882
     wikipedia: http://en.wikipedia.org/wiki/Janet_McKenzie_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41940#The-Boston-Cooking-School-Magazine--Vol.-XV-No.-2-Aug.-Sept.-1910-
 gutenberg_issued: '2013-01-28'
 gutenberg_type: Text
 identifiers:
